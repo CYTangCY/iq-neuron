@@ -1,5 +1,5 @@
 import numpy as np
-with open("8exch400.txt","a") as k:
+with open("8exch1400.txt","a") as k:
     with open("lif_ICoutput_0.txt","r") as f:
         lines = []
         for line in f:
