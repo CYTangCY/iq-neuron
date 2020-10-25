@@ -6,5 +6,6 @@ do
     ./libiq < ../inputs/session.txt
     python3 changepro.py
     i=$(($i+1))
+    echo "已經跑了$i次囉"
 done    
 
